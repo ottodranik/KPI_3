@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{00EBA93F-A128-448D-B099-865488267CF8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="lab1/.gitignore">
+    <Files>
+      <File FileName="lab1/UnitTest1.cs" Line="7" Column="2" />
+      <File FileName="lab1/.gitignore" Line="2" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="labs" expanded="True">
+            <Node name="lab1" expanded="True">
+              <Node name=".gitignore" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="labs" expanded="True">
+            <Node name="lab1" expanded="True">
+              <Node name="labs" expanded="True">
+                <Node name="Lab1_FileWorkerTests" expanded="True">
+                  <Node name="GetFileName_FileExists_ReturnFileName" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.lab1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
