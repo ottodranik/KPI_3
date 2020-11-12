@@ -9,7 +9,7 @@ using System.Linq;
 namespace lab2
 {
     [TestClass]
-    public class Lab1_FileWorkerTests
+    public class Lab2_StorageDBTest
     {
         private const string Server = @"localhost,1433";
         private const string Database = @"IIG.CoSWE.StorageDB";

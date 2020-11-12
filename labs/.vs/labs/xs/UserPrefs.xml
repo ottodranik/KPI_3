@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{00EBA93F-A128-448D-B099-865488267CF8}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="lab1/.gitignore">
+  <MonoDevelop.Ide.Workbench ActiveDocument="lab2/Lab2Test.cs">
     <Files>
-      <File FileName="lab1/UnitTest1.cs" Line="7" Column="2" />
-      <File FileName="lab1/.gitignore" Line="2" Column="2" />
+      <File FileName="lab2/Lab2Test.cs" Line="114" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="labs" expanded="True">
-            <Node name="lab1" expanded="True">
-              <Node name=".gitignore" selected="True" />
+            <Node name="lab1" expanded="True" />
+            <Node name="lab2" expanded="True">
+              <Node name="Lab2Test.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -20,11 +20,9 @@
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
           <Node name="labs" expanded="True">
-            <Node name="lab1" expanded="True">
-              <Node name="labs" expanded="True">
-                <Node name="Lab1_FileWorkerTests" expanded="True">
-                  <Node name="GetFileName_FileExists_ReturnFileName" selected="True" />
-                </Node>
+            <Node name="lab2" expanded="True">
+              <Node name="lab2" expanded="True" selected="True">
+                <Node name="Lab1_FileWorkerTests" expanded="True" />
               </Node>
             </Node>
           </Node>

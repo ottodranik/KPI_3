@@ -21,5 +21,8 @@
   <ItemGroup>
     <None Remove="testfiles\somefile.html" />
     <None Remove="testfiles\somefile.sh" />
+    <None Remove="testfiles\somefile.txt" />
+    <None Remove="testfiles\somefile.xml" />
+    <None Remove="testfiles\somefile.js" />
   </ItemGroup>
 </Project>
